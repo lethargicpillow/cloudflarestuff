@@ -1,0 +1,6 @@
+name = "roblox-proxy"
+compatibility_date = "2025-12-04"
+main = "index.js"
+
+[env.production]
+workers_dev = true
